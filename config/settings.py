@@ -42,7 +42,7 @@ INSTALLED_APPS = [
 
     'rest_framework',
     'rest_framework_simplejwt',
-    'corsheaders',
+    "corsheaders",
     
     'account',
 
@@ -180,3 +180,6 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:3001',
     'https://www.thunderclient.com',
 ]
+
+
+
